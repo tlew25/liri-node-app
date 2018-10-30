@@ -44,8 +44,8 @@ if (search === "movies") {
       console.log("Release Year: " + JSON.parse(body).Year);
       console.log("Title: " + JSON.parse(body).Title);
       console.log("IMDB Rating: " + JSON.parse(body).imdbRating);
-      console.log("Rotten Tomatoes: " + JSON.parse(body).tomatoRating);
-      console.log("Rotten Tomatoes URL: " + JSON.parse(body).tomatoURL);
+      // console.log("Rotten Tomatoes: " + JSON.parse(body).tomatoRating);
+      // console.log("Rotten Tomatoes URL: " + JSON.parse(body).tomatoURL);
       console.log("Language: " + JSON.parse(body).Language);
       console.log("Plot: " + JSON.parse(body).Plot);
       console.log("Starring: " + JSON.parse(body).Actors);
@@ -56,7 +56,7 @@ if (search === "movies") {
   });
 } if(search === "music"){
   console.log("Searching for Spotify");
-  ///////////////
+  /////////////// searches for spotify artists,songs, ranking
   var Spotify = require("node-spotify-api");
   ///////////////
   var spotify = new Spotify({
@@ -131,7 +131,7 @@ if(search === "band"){
       var concertData = JSON.parse(data);
 
       // console.log(concertData);
-      //////////////
+      ////////////// prints bandsintown data using moment.js as well to track time
       var firstConcert = concertData[0].venue.name;
       var firstCountry = concertData[0].venue.country;
       var firstCity = concertData[0].venue.city;
