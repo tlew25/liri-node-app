@@ -25,6 +25,6 @@ Example: 'node liri.js movies major payne'
 * Spotify API
 
 ### Screenshots
-![Image of liri.js](/screenshots/Screen Shot 2018-10-30 at 1.59.19 PM.png)
-![Image of liri.js](screenshots/Screen Shot 2018-10-30 at 1.58.25 PM.png)
-![Image of liri.js](/screenshots/Screen Shot 2018-10-30 at 1.56.38 PM.png)
+![Image of liri.js](Screen Shot 2018-10-30 at 1.59.19 PM)
+![Image of liri.js](Screen Shot 2018-10-30 at 1.58.25 PM)
+![Image of liri.js](Screen Shot 2018-10-30 at 1.56.38 PM)
