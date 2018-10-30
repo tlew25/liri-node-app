@@ -26,10 +26,15 @@ Example: 'node liri.js movies major payne'
 
 ### Screenshots
 
-![spotify](screenshots/Screen Shot 2018-10-30 at 1.56.38 PM.png "music operator")
+<img src="screenshots/Screen Shot 2018-10-30 at 1.56.38 PM.png" alt="spotify" height="100" width="100">
 
-![OMDB](screenshots/Screen Shot 2018-10-30 at 1.58.25 PM.png "movie operator")
-![BIT](screenshots/Screen Shot 2018-10-30 at 1.59.19 PM.png "band operator")
+* Spotify Screenshot
 
-<img src="screenshots/Screen Shot 2018-10-30 at 1.59.19 PM.png" alt="spotify">
+<img src="screenshots/Screen Shot 2018-10-30 at 1.58.25 PM.png" alt="movies" height="100" width="100">
+
+* OMDB Screenshot
+
+<img src="screenshots/Screen Shot 2018-10-30 at 1.59.19 PM.png" alt="bandsintown" height="100" width="100">
+
+* Bands in Town Screenshot
 
