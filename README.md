@@ -28,11 +28,11 @@ Example: 'node liri.js movies major payne'
 
 <img src="screenshots/Screen Shot 2018-10-30 at 1.56.38 PM.png" alt="spotify" height="100" width="100">
 
-* Spotify Screenshot
+* OMDB Screenshot
 
 <img src="screenshots/Screen Shot 2018-10-30 at 1.58.25 PM.png" alt="movies" height="100" width="100">
 
-* OMDB Screenshot
+* Spotify Screenshot
 
 <img src="screenshots/Screen Shot 2018-10-30 at 1.59.19 PM.png" alt="bandsintown" height="100" width="100">
 
